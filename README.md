@@ -4,6 +4,8 @@
 ![original_THmC_4b6f000174941190](images/flash.jpg)
 ![original_THmC_4b6f000174941190](images/js.png)
 
+javascript版本演示地址：http://www.gis520.com/gis/jsPlottingSymbols/example/
+
 
 ### 二、支持的符号
 支持如下标绘扩展符号的绘制以及编辑（flex支持历史回退）。
